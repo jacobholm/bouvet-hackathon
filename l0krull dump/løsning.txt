@@ -1,0 +1,15 @@
+Deltakerne må bruke hashcat eller annen løsning for å bruteforce de ukjente karakterene i passordet.
+De må finne ut av hashalgoritmen brukt i dumpen, hashe passordet og sammenligne med alle passord i dumpen.
+Når de får en match har de alias og epost til hackeren.
+
+Passordet er l33tH@XrUS, og er hashet med SHA-1. Det de finner i dumpen:
+
+insert into users (id, user, email, password, ip_address) values (55861, 'ping-vin', 'ping-vin@dark.net', 'a797a7d335809eb92d6435d0447cc3f99602f702', '139.68.232.91');
+
+Andre hackere som ligger i dumpen (og kan brukes i db dump 2 oppgaven):
+
+insert into users (id, user, email, password, ip_address) values (59253, 'matr1ze', 'matr1ze@protonmail.com', 'd54829e8ab3ce8ac6d9d1e495ecce9754e42ecff', '239.133.150.39');
+
+insert into users (id, user, email, password, ip_address) values (107486, 'h0l0', 'h0l0@reverse.org', 'f226092555bcacad938ec287d0b72dc56ad7faf0', '205.198.241.59');
+
+insert into users (id, user, email, password, ip_address) values (188128, 'h4k', 'h4k@undergrou.nd', 'a86857bc7ef52ce3744aef7c74264b3afb98b5e8', '6.76.70.237');

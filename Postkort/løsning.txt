@@ -1,0 +1,5 @@
+Den hemmelige meldingen ligger i bildefilen. Deltakerene må åpne den i en hex editor eller notepad. Reverser algoritmen du ser på laptop-skjermen i bakgrunnen av bildet. Den dekrypterte teksten er som følger:
+
+Hej, Matr1ze!
+
+Tusind tak for invitationen til jeres gruppe. Min rolle som cryptospesialist vil være til stor hjelp! Min nyeste crypto-algoritme er halvfems % ferdig, så det bliver sgu andre boller på suppen! Men jeg tror vi skal klappe hesten og undgå en "kø ved håndvasken" situation. Som leder ved du nok at det er best at ikke have nullermænd under sengen.

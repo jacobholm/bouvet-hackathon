@@ -1,0 +1,7 @@
+Hackeren skrev meldingen med dvorak layout, men keyloggeren tok ikke hensyn til layout og endte opp med å fange tastetrykkene som qwerty.
+For å løse oppgavene må deltakerne mappe om fra qwerty til dvorak. For eks. er 'c' i qwerty layout 'j' i dvorak. Under følger meldingen etter den har blitt mappet om:
+
+"Jeg skal snart lamme infrastrukturen slik at vi kan ta over markedet med vaar egen virksomhet! Sendt fra H0l0 sin windows phone"
+
+Ressurs som ble brukt: https://learn.dvorak.nl/
+Her kan du velge "Map QWERTY to Dvorak" for så å skrive inn den kodede meldingen.

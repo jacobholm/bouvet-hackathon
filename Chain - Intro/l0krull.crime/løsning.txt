@@ -1,0 +1,5 @@
+Caesar cipher/Rot13 koding. Dekodet tekst:
+
+Som dere vet har vi fått grønt lys og er i rute. Dere skal ha fått tilsendt det dere trenger for å utføre deres oppgaver.
+
+Hilsen H4k

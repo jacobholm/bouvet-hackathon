@@ -1,0 +1,3 @@
+Vi fikk et anonymt tips om suspekt aktivitet fra en av gjestene på en cafe. Da vi kom frem løp vedkommende avgårde, men vi fant en notatblokk liggende igjen. Det var sølt kaffe over den, men vi klarte å tyde deler av hva som ligner på et passord. Vi er rimelig sikker på at dette var en av hackerene vi jakter på.
+
+Kanskje dere kan bruke denne informasjonen sammen med databasedumpen dere fant til å finne ut av hvem hackeren er.

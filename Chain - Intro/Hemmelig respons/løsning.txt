@@ -1,0 +1,9 @@
+Dekode i følgende rekkefølge:
+
+Rot13, base64, hex.
+
+Dekodet melding:
+
+Som H4k sier er vi i rute, men jeg har en følelse av at noen følger med på samtalene våres. Det er viktig at vi roterer kryptering av vår kommunikasjon!
+
+Mvh Matr1ze

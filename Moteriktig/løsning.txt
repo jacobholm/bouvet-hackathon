@@ -1,0 +1,10 @@
+Passordene er hashet med SHA-1.
+Deltakerne må kryssjekke data fra dump 1 oppgaven med denne dumpen.
+For å finne navnet til ping-vin må de matche det hashede passordet i de to dumpene.
+Navnet til ping-vin er Rasmus Johansen.
+
+Andre hackere som ligger i dumpen:
+
+Matr1ze/Lise (må kryssjekke IP)
+H0l0/Helge (må kryssjekke passordhash)
+H4k/Leif (må kryssjekke IP)

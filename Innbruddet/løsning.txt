@@ -1,0 +1,3 @@
+Dette er pigpen cipher, så match symbolene i meldingen mot "kartet" i instruksjon.png.
+
+Dekodet melding: Vi kom oss lett inn via gjestenettet

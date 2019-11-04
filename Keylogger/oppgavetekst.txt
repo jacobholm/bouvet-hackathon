@@ -1,0 +1,3 @@
+Vi klarte å droppe en RAT på en av hackernes laptop'er i håp om å finne ut av hva vedkommende heter, eller i det minste et alias. Den ble fort oppdaget og fjernet, men vi rakk å få ut noen skjermbilder, private bilder og kjørt en keylogger. Vi vet ikke helt hva som har skjedd med keylogger-output'en.
+
+Kan dere hjelpe oss hva vedkommende heter eller kaller seg?

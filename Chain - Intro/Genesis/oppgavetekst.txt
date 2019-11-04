@@ -1,0 +1,3 @@
+Hei, velkommen. Dere er her fordi vi trenger hjelp. Vi har satt våre beste ressurser på å finne ut av hvem disse hackerene er og hva de er ute etter, men vi har lite fremgang. Før vi setter igang må vi sikre oss at dere har noen utviklere i gruppen.
+
+Når du skriver et veldig simpelt første eksempel-program, hva er vanlig å skrive ut?

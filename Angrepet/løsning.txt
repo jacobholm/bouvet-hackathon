@@ -1,0 +1,7 @@
+Først må deltakerne ferdigstille dekodermatrisen.
+Så må de mappe nøkkelen mot meldingen. Meldingen og nøkkelen har samme lengde, så hver karakter i meldingen mappes mot karakteren i nøkkelen i tilsvarende posisjon.
+Finn karakter fra melding i den øvre rekken i dekoderen. Følg kolonnen nedover til du treffer tilsvarende karakter i nøkkelen. Følg deretter raden mot venstre for å finne dekodet karakter helt til venstre.
+
+Dekodet melding:
+
+Etter vi kom inn var det et enkelt MitM angrep for aa kompromittere serverene

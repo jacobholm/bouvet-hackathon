@@ -1,0 +1,6 @@
+Filnavnet er (x, y) koordinated som er base64 kodet.
+Bildet er et sudokubrett som deltakerne må løse.
+Deretter hentes en tallrekke ut fra brettet basert på koordinatene. (0, 0) er øvre venstre hjørne.
+Nummeret som hentes ut er et telefonnr til danmark.
+
+Telefonnr.: 4592454318

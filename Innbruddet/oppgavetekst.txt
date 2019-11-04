@@ -1,0 +1,1 @@
+Vi har enda ikke funnet ut hvordan de kom seg inn i systemene våres. Vi fant igjen noen filer i en delt mappe på serveren vår, muligens noe kommunikasjon mellom hackerene. Klarer dere finne ut av hvilken vei de kom seg inn?

@@ -1,0 +1,1 @@
+Dette er et telefonnr. til Danmark. Tjenesten Twilio ble brukt for å ta imot samtaler og spille tilbake en lydfil med morsekode.

@@ -1,0 +1,3 @@
+De kom seg inn via gjestenettet altså. Kanskje vi burde hatt et litt bedre passord.. For å være bedre forberedt i fremtiden vil vi gjerne vite hvilken type angrep de benyttet seg av når de vel var inne på nettverket.
+
+På serveren fant vi også en kryptert melding med en nøkkel. Det kan desverre se ut til at noe av det er korrupt. Klarer dere gjenskape bildet og finne ut av hvilket angrep de benyttet seg av?

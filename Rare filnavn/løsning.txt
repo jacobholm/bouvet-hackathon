@@ -1,0 +1,9 @@
+Hvert filnavn er base64 kodet.
+Dekoding av filnavn avslører n.png
+Det er et bilde som er delt opp i linjer. Dvs. dette bildet er 1024x615, så det inneholder 615 png filer.
+Disse må sys sammen til et fullstendig bilde.
+
+En kan lage et eget program eller bruke eksisterende som for eks ImageMagick.
+
+Bildet innholder en hex kodet melding: 6e 30 30 62 65 72 2e 63 6f 6d
+Dekryptert blir dette: n00ber.com

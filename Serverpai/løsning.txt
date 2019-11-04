@@ -1,0 +1,6 @@
+Teksten inneholder '.', '-' og '/'
+'.' og '-' er morsekode, hvor hver bokstav skilles vha '/'. Deltakerne må da splitte opp teksten basert på '/' og så strippe vekk alt utenom '.' og '-' for så å dekode morsen.
+
+Dekryptert tekst:
+
+De finner snart ut av hvem vi er. Du må slette alt på serveren som kan knytte viruset til oss. Passordet for å logge deg inn er pirataxi.
